@@ -1,0 +1,7 @@
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+.settings/
+.mxproject
