@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4a13aebf-cee3-48c0-a16b-3efca23a3525")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 13.97 15.24)
+		(size 36.83 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3f5642b4-4a35-451e-957f-70aae7e07be4")
+		(property "Sheetname" "STM32"
+			(at 13.97 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Detector1.kicad_sch"
+			(at 13.97 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kicad1"
+				(path "/4a13aebf-cee3-48c0-a16b-3efca23a3525"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 53.34)
+		(size 34.29 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5bf645ad-fb07-4594-8f6f-167b2cb02e61")
+		(property "Sheetname" "Laser"
+			(at 57.15 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "laser.kicad_sch"
+			(at 57.15 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kicad1"
+				(path "/4a13aebf-cee3-48c0-a16b-3efca23a3525"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 50.8)
+		(size 39.37 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aadbced7-8ea2-4019-aa5a-351d6ac61ac3")
+		(property "Sheetname" "Supply"
+			(at 13.97 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "supply.kicad_sch"
+			(at 13.97 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kicad1"
+				(path "/4a13aebf-cee3-48c0-a16b-3efca23a3525"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 85.09)
+		(size 38.1 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dcca6652-efb2-48e7-9460-3c20100480b8")
+		(property "Sheetname" "COMP"
+			(at 15.24 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "COMP.kicad_sch"
+			(at 15.24 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kicad1"
+				(path "/4a13aebf-cee3-48c0-a16b-3efca23a3525"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 15.24)
+		(size 35.56 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e73daf41-0628-4207-8684-cacd06b6cecd")
+		(property "Sheetname" "TIA"
+			(at 57.15 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TIA.kicad_sch"
+			(at 57.15 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kicad1"
+				(path "/4a13aebf-cee3-48c0-a16b-3efca23a3525"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
