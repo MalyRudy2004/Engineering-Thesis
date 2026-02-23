@@ -12,6 +12,6 @@ The main parts are
 - KiCad files
 
 
-  **Disclaimer**
+# **Disclaimer**
 
 There is a difference in pin connection of STM32 between KiCad schematics and STM32CubeIDE project. Correct connection is presented and explained in STM Project, more precisely, in GPIO library header file. Connection on the PCB was corrected in hardware after production.
