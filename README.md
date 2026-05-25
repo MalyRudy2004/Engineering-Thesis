@@ -4,6 +4,12 @@
 **Author:** Piotr Łuczak  
 **Student ID:** 246965  
  
+---
+
+## 📄 Full Text / Thesis Document
+The complete text of the engineering thesis (PDF) can be downloaded here:
+[Piotr_Łuczak_Development_of_a_fiber_optic_system_for_spatial_localization_of_a_person_in_a_room.pdf](Piotr_Łuczak_Development_of_a_fiber_optic_system_for_spatial_localization_of_a_person_in_a_room.pdf)
+
 
 ---
 
